@@ -65,3 +65,5 @@ results/*
 reports/*
 !results/.gitkeep
 !reports/.gitkeep
+# Dataset split
+data/split/
